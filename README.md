@@ -17,7 +17,7 @@ LendingClub is a peer-to-peer lending company which offers a miscellaneous varie
 - Create proper visualizations for explaining processes & outcomes of models
 - Create helper modules for efficient running of script
 - Create README file for project overview
-- Create presentation slide deck
+- Create presentation slide deck 
 - Present concepts & actionable insights
 
 ### Summary of Included Files:
@@ -36,3 +36,12 @@ LendingClub is a peer-to-peer lending company which offers a miscellaneous varie
     - Google slides deck for presentation
     - Includes non-technical summary of goals & procedures
     - Actionable Insights for LendingClub
+    
+- LCloans_07.csv
+    - CSV file containing LendingClub loan data
+    - Years: 2007-2011
+    - 42000 entries 
+    
+- LCDataDictionary.csv
+    - CSV file
+    - Contains feature definitions for LCloans_07.csv file
