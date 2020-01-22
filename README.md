@@ -27,12 +27,16 @@ LendingClub is a peer-to-peer lending company which offers a miscellaneous varie
     - Imports necessary packages for EDA & model testing
     - Library importation, statistical testing, hyperparameter tunings 
     - Models tested: Random Forrest, Random Forest w/ GridSearch, KNN, XGboost, SVM, Logistic Regression
+
+- mod_5_project_main-Copy1.ipynb
+    - Jupyter notebook for scratch/experimental work
+    - Non-essential notebook
     
 - README.md
     - See whole file
     - Overview of project including goals, responsibilities, & summary of included files
     
-- LendingClub_Loan_Classification_Presentation
+- LendingClub Loan Classification Presentation Slide Deck
     - Google slides deck for presentation
     - Includes non-technical summary of goals & procedures
     - Actionable Insights for LendingClub
